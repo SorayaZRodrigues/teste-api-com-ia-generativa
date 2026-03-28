@@ -1,0 +1,21 @@
+{
+  "name": "teste-api-com-ia-generativa",
+  "version": "1.0.0",
+  "description": "Projeto de testes de API com Mocha e apoio de IA Generativa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "qa",
+    "api",
+    "testing",
+    "mocha",
+    "generative-ai"
+  ],
+  "author": "Soraya C.N.Z. Rodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
